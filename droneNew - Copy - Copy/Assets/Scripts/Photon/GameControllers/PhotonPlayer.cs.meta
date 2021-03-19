@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 719c7616969c2004e82f82902d5b4d5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myAvatar: {instanceID: 0}
+  - prefab: {instanceID: 0}
+  - PVPlayer: {instanceID: 0}
+  - tickSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d72851c032a90614891d2ccdd3b09bf0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yesterday Dream
+  fontNames:
+  - Yesterday Dream
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 56f4a91c7a542104db8d10dedf7e0519, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
